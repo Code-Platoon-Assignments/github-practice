@@ -6,6 +6,8 @@
 
 Use Github to create a new Github repo and sync the local git repo you created in part one twith this remote repo.
 
+Have fun!
+
 ## Instructions
 
 ### Part 1: Create a remote Github repo
